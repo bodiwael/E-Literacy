@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => SplashScreen(),
         '/Main': (context) => MainScreen(),
-        '/Nums': (context) => AnimalScreen(),
+        '/Nums': (context) => NumsScreen(),
         '/Animals': (context) => AnimalScreen(),
         '/Letters': (context) => LettersScreen(),
         '/Family': (context) => FamilyScreen(),
