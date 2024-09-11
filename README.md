@@ -5,8 +5,6 @@ Simple Flutter Educational App Made For Kids To Help Them Learn Arabic And Recog
 
 ## Screens:
 
-![1](https://user-images.githubusercontent.com/89322155/173706806-8ca9952c-babc-49a6-8fd4-a1e4647f8ddf.png)
-![2](https://user-images.githubusercontent.com/89322155/173706818-1a7bdd41-e00b-4a58-91b7-d156cf5be9c9.png)
 ![3](https://user-images.githubusercontent.com/89322155/173706821-118a4cde-50ef-4b75-887f-a030dd03ffae.png)
 ![4](https://user-images.githubusercontent.com/89322155/173706828-228c391b-6068-47bf-bcd9-a0afaa673792.png)
 ![5](https://user-images.githubusercontent.com/89322155/173706833-a8f40842-9f85-4659-a0a3-60c9db79c9c6.png)
